@@ -65,6 +65,14 @@ Content in this repository is written as practical documentation and project not
 
 This repository is primarily a personal documentation archive, but contributions and suggestions are welcome if you want to improve the content, add new walkthroughs, or expand the project coverage.
 
+## TBD
+
+- Simple FW project
+- Configuring a switch update with terminal(cisco) walkthrough
+- Configuring a PAN os FW
+- DNS Adblocker
+- And more to come
+
 ## Contact
 
 For questions or collaboration inquiries, please reach out through the repository owner profile on GitHub.
